@@ -1,0 +1,11 @@
+/.idea
+bin/
+obj/
+/logs
+.vs/
+.preparer_output/
+*.user
+errlog.txt
+res.txt
+interact.txt
+**/packages/*
