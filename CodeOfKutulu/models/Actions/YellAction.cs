@@ -10,9 +10,9 @@ namespace CodeOfKutulu
     {
         public string Message { get; }
 
-        YellAction() : this("") { }
+        public YellAction() : this("") { }
 
-        YellAction(string message)
+        public YellAction(string message)
         {
             Message = message;
         }
